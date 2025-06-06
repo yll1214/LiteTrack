@@ -35,7 +35,7 @@ We test on three challenging datasets, OTB99, TNL2K, and LASOT, where the main c
 ## Install the environment
 Use the Anaconda
 ```
-conda create -n LiteTrack python=3.6
+conda create -n LiteTrack python=3.9
 conda activate LiteTrack
 cd LiteTrack
 pip install -r requirements.txt
